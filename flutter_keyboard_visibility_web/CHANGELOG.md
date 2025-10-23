@@ -1,3 +1,7 @@
+## [2.1.0] - June 23, 2025
+
+* Migrates to `package:web` to support WASM.
+
 ## [2.0.0] - March 4, 2021
 
 * Migrated to null safety
